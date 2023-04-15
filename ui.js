@@ -86,7 +86,7 @@ class UI {
         // this.clearProfile();
     }
 
-    //clear alert message
+
 
     clearAlert() {
         const currentAlert = document.querySelector('.alert');
